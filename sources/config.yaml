@@ -1,6 +1,6 @@
 buildVariable: false
 removeOutlineOverlaps: false
-noProductionNames: true
+productionNames: false
 reverseOutlineDirection: false
 decomposeTransformedComponents: false
 autohintTTF: false
